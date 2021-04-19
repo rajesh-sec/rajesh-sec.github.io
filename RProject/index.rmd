@@ -1,0 +1,11 @@
+---
+title: "My Sample website!"
+---
+
+This is a sample website.
+
+<img src="files/1.jpg" style="width:50%">
+
+Pentesting Methodology.
+
+<img src="files/2.png" style="width:50%">
